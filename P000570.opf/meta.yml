@@ -1,15 +1,16 @@
-id: opecha:P000570
+id: P000570
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6048
   title: ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ་
-  volume:
+  author: ''
+  volumes:
     12740429800343acba44f3a0e38a39a9:
       image_group_id: I1KG6271
       title: Volume 1 of zhi khro dgongs pa rang grol
       volume_number: 1
       total_pages: 238
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ་
   author: ''
